@@ -1,0 +1,10 @@
+.qdr{
+        width: 200px;
+        border: 1px solid hsla(239, 81%, 44%, 0.534);
+}
+.contener{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+        border: 1px solid hsl(0, 0%, 0%);
+}
